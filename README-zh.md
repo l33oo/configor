@@ -2,13 +2,13 @@
 
 ![logo](./assets/logo.png)
 
-<!-- [![Open in VSCode](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Nomango/configor) -->
-[![Open in VSCode](https://img.shields.io/badge/open-in%20Visual%20Studio%20Code-blue)](https://open.vscode.dev/Nomango/configor)
-[![Github status](https://github.com/Nomango/configor/actions/workflows/unit_tests.yml/badge.svg?branch=master)](https://github.com/Nomango/configor/actions)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cf98f6b174fe4dd19f1e4574ac527a07)](https://www.codacy.com/gh/Nomango/configor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nomango/configor&amp;utm_campaign=Badge_Grade)
-[![codecov](https://codecov.io/gh/Nomango/configor/branch/master/graph/badge.svg?token=OO71U89I5N)](https://codecov.io/gh/Nomango/configor)
-[![GitHub release](https://img.shields.io/github/release/nomango/configor)](https://github.com/Nomango/configor/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/nomango/configor)](https://github.com/Nomango/configor/blob/master/LICENSE)
+<!-- [![Open in VSCode](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/l33oo/configor) -->
+[![Open in VSCode](https://img.shields.io/badge/open-in%20Visual%20Studio%20Code-blue)](https://open.vscode.dev/l33oo/configor)
+[![Github status](https://github.com/l33oo/configor/actions/workflows/unit_tests.yml/badge.svg?branch=master)](https://github.com/l33oo/configor/actions)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cf98f6b174fe4dd19f1e4574ac527a07)](https://app.codacy.com/gh/l33oo/configor/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![codecov](https://codecov.io/github/l33oo/configor/graph/badge.svg?token=OO71U89I5N)](https://codecov.io/github/l33oo/configor)
+[![GitHub release](https://img.shields.io/github/release/l33oo/configor)](https://github.com/l33oo/configor/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/l33oo/configor)](https://github.com/l33oo/configor/blob/master/LICENSE)
 
 为 C++11 设计的轻量级配置库
 
@@ -35,7 +35,7 @@ j["float"] = 1.5;
 j["string"] = "something";
 j["boolean"] = true;
 j["user"]["id"] = 10;
-j["user"]["name"] = "Nomango";
+j["user"]["name"] = "Leeoo";
 
 json::value j2 = json::object{
     { "null", nullptr },
@@ -80,11 +80,11 @@ User u;
 std::cin >> json::wrap(u);
 ```
 
-更多内容请到 [wiki](https://github.com/Nomango/configor/wiki) 查看。
+更多内容请到 [wiki](https://github.com/l33oo/configor/wiki) 查看。
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=nomango/configor&type=Date)](https://star-history.com/#nomango/configor&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=l33oo/configor&type=Date)](https://star-history.com/#l33oo/configor&Date)
 
 ## 计划
 
