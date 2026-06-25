@@ -2,13 +2,13 @@
 
 ![logo](./assets/logo.png)
 
-<!-- [![Open in VSCode](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/l33oo/configor) -->
-[![Open in VSCode](https://img.shields.io/badge/open-in%20Visual%20Studio%20Code-blue)](https://open.vscode.dev/l33oo/configor)
-[![Github status](https://github.com/l33oo/configor/actions/workflows/unit_tests.yml/badge.svg?branch=master)](https://github.com/l33oo/configor/actions)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cf98f6b174fe4dd19f1e4574ac527a07)](https://app.codacy.com/gh/l33oo/configor/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-[![codecov](https://codecov.io/github/l33oo/configor/graph/badge.svg?token=OO71U89I5N)](https://codecov.io/github/l33oo/configor)
-[![GitHub release](https://img.shields.io/github/release/l33oo/configor)](https://github.com/l33oo/configor/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/l33oo/configor)](https://github.com/l33oo/configor/blob/master/LICENSE)
+<!-- [![Open in VSCode](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/nomango/configor) -->
+[![Open in VSCode](https://img.shields.io/badge/open-in%20Visual%20Studio%20Code-blue)](https://open.vscode.dev/nomango/configor)
+[![Github status](https://github.com/nomango/configor/actions/workflows/unit_tests.yml/badge.svg?branch=master)](https://github.com/nomango/configor/actions)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cf98f6b174fe4dd19f1e4574ac527a07)](https://app.codacy.com/gh/nomango/configor/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![codecov](https://codecov.io/github/nomango/configor/graph/badge.svg?token=OO71U89I5N)](https://codecov.io/github/nomango/configor)
+[![GitHub release](https://img.shields.io/github/release/nomango/configor)](https://github.com/nomango/configor/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/nomango/configor)](https://github.com/nomango/configor/blob/master/LICENSE)
 
 A light weight configuration library for C++11.
 
@@ -79,11 +79,11 @@ User u;
 std::cin >> json::wrap(u);
 ```
 
-Learn more from the [wiki](https://github.com/l33oo/configor/wiki).
+Learn more from the [wiki](https://github.com/nomango/configor/wiki).
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=l33oo/configor&type=Date)](https://star-history.com/#l33oo/configor&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=nomango/configor&type=Date)](https://star-history.com/#nomango/configor&Date)
 
 ## Plan
 
