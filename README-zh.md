@@ -84,7 +84,7 @@ std::cin >> json::wrap(u);
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=nomango/configor&type=Date)](https://star-history.com/#nomango/configor&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=nomango/configor&type=Date)](https://star-history.dera.page/#nomango/configor&Date)
 
 ## 计划
 
